@@ -1,14 +1,24 @@
+*{
+box-sizing:border-box;
+  font-family: sans-serif;
+}
+
+
+
 body{
-margin:auto;
+margin:0;
 
 }
 
 
 nav{
-  margin:left;
+  position:fixed;
+  top:0;
+  left:0;
+  
   background-color: Black;
   color:White;
-  float:left;
+  
   height:100%;
     width:15%;
   
