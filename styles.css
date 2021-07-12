@@ -1,3 +1,9 @@
+body{
+margin:auto;
+
+}
+
+
 nav{
   margin:left;
   background-color: Black;
@@ -12,6 +18,7 @@ nav{
   color:White;
   height:500px;
   text-align:center;
+  
   
   
 }
