@@ -72,3 +72,16 @@ p{
   text-align:center;
   
 }
+#Blog {
+  height:500px;
+  background-color:green;
+  color:white;
+  text-align:center;
+}
+#Contact{  
+  height:500px;
+  background-color:orange;
+  color:white;
+  text-align:center;
+  
+}
