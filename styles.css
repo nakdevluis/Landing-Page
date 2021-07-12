@@ -12,6 +12,12 @@ margin:0;
 main {
   margin-left:15%;
 }
+#Top{
+  background-color:red;
+  color:white;
+  height:500px;
+  text-align:center;
+}
 
 
 nav{
