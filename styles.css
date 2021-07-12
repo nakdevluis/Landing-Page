@@ -11,7 +11,10 @@ nav{
   float:left;
   height:100%;
     width:15%;
-  font-size:30px;
+  
+}
+a{
+  font-size:20px;
 }
 
 #About{
@@ -23,6 +26,14 @@ nav{
   
   
 }
+h1{
+  font-size:30px;
+}
+p{
+  
+  font-size:15px;
+}
+
 #Skills{
   height:500px;
   background-color:yellow;
