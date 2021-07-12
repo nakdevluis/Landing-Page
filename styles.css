@@ -1,5 +1,9 @@
 nav{
   margin:left;
+  background-color: Black;
+  color:White;
+  height:100%;
+    width:15%;
 }
 
 #About{
