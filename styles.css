@@ -11,10 +11,12 @@ nav{
   color:White;
   float:left;
   height:500px;
+  width:100%;
   
 }
 #Skills{
   height:500px;
   background-color:White;
   color:Black;
+  width:100%;
 }
