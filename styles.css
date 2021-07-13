@@ -14,8 +14,8 @@ main {
   padding :10px;
 }
 #Top{
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/RFK_Bridge_at_sunrise_vc.jpg/300px-RFK_Bridge_at_sunrise_vc.jpg);
-  color:white;
+  
+  color:Black;
   height:500px;
   text-align:center;
   
@@ -50,8 +50,8 @@ nav a{
 }
 
 #About{
-  background-color:Blue;
-  color:White;
+  
+  color:Black;
   height:500px;
   text-align:center;
   
@@ -69,21 +69,21 @@ p{
 
 #Skills{
   height:500px;
-  background-color:yellow;
-  color:white;
+  
+  color:Black;
   text-align:center;
   
 }
 #Blog {
   height:500px;
-  background-color:green;
-  color:white;
+  
+  color:Black;
   text-align:center;
 }
 #Contact{  
   height:500px;
-  background-color:orange;
-  color:white;
+  
+  color:Black;
   text-align:center;
   
 }
