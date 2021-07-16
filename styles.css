@@ -15,13 +15,14 @@ main {
 }
 #Top{
   margin-top:100px;
-  color:Black;
+  color:Red;
   height:500px;
   text-align:center;
   
 }
 .topp{
-  font-size: 60px;
+  font-size: 40px;
+  color:Black;
 }
 
 nav{
